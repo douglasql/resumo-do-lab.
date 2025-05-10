@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Gerenciamento de Recursos
+## Gerenciamento de Recursos
 - Utilização do **Portal do Azure**
 - Conceitos importantes:
   - **Resource Group**: Agrupamento lógico de recursos
