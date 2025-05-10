@@ -6,7 +6,7 @@
 
 ---
 
-## Modelos de Nuvem
+# Modelos de Nuvem
 - **Nuvem Pública**: Acessível via internet, usada por várias organizações (ex: Azure).
 - **Nuvem Privada**: Infraestrutura dedicada a uma única organização.
 - **Nuvem Híbrida**: Combinação de nuvens públicas e privadas.
@@ -14,7 +14,7 @@
 
 ---
 
-## ⭐ Benefícios do Azure
+## Benefícios do Azure
 - Alta escalabilidade e disponibilidade
 - Segurança e conformidade integradas
 - Modelo de custo baseado em consumo (**OpEx**)
