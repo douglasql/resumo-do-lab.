@@ -61,3 +61,35 @@ A computação em nuvem oferece três principais modelos de serviço: **IaaS**, 
   - Acesso fácil e rápido a aplicativos.
   - Nenhuma responsabilidade pela manutenção ou infraestrutura.
   - Facilidade de integração com outros serviços.
+ 
+   # Resumo: Serviços de Computação e Máquinas Virtuais do Azure
+
+## 1. **Serviços de Computação e Máquinas Virtuais do Azure**
+- **Máquinas Virtuais (VMs)** no Azure oferecem uma maneira flexível de executar sistemas operacionais e aplicativos, permitindo controle completo sobre a configuração do ambiente.
+- **Tipos de Máquinas Virtuais**: VMs podem ser configuradas para diferentes tipos de carga de trabalho, como produção, testes ou desenvolvimento.
+- **Escalabilidade**: Azure oferece escalabilidade automática, ajustando a quantidade de VMs conforme a demanda.
+
+---
+
+## 2. **Conjuntos de Disponibilidade de Máquinas Virtuais do Azure**
+- **Conjuntos de Disponibilidade** ajudam a garantir a alta disponibilidade das VMs, distribuindo-as entre diferentes **domínios de falha** e **domínios de atualização**.
+- Isso minimiza o risco de falhas, já que as VMs podem ser movidas entre diferentes zonas para evitar um único ponto de falha.
+- **Zonas de Disponibilidade** são usadas para garantir que as VMs estejam distribuídas fisicamente em diferentes locais dentro de uma região.
+
+---
+
+## 3. **Área de Trabalho Virtual e Contêineres do Azure**
+- **Área de Trabalho Virtual (Azure Virtual Desktop)** permite que os usuários acessem desktops e aplicativos corporativos remotos em qualquer lugar.
+- **Contêineres** no Azure são leves e oferecem uma maneira de empacotar e isolar aplicativos. Azure suporta a execução de contêineres com **Azure Kubernetes Service (AKS)** e **Azure Container Instances**.
+
+---
+
+## 4. **Azure Functions e Serviços de Aplicativo do Azure**
+- **Azure Functions** é um serviço serverless (sem servidor) que permite executar código sem precisar gerenciar a infraestrutura. Você paga apenas pelo tempo de execução do código.
+- **Serviços de Aplicativo do Azure** são uma plataforma PaaS para hospedar aplicativos web e APIs, oferecendo gerenciamento automatizado de infraestrutura e escalabilidade.
+
+---
+
+## 5. **Computação e Rede - Revisão**
+- Uma revisão dos tópicos aborda como a **computação em nuvem** oferece flexibilidade, escalabilidade e controle, enquanto os **serviços de rede** no Azure conectam e protegem recursos em nuvem e locais.
+
