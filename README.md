@@ -93,3 +93,5 @@ A computação em nuvem oferece três principais modelos de serviço: **IaaS**, 
 ## 5. **Computação e Rede - Revisão**
 - Uma revisão dos tópicos aborda como a **computação em nuvem** oferece flexibilidade, escalabilidade e controle, enquanto os **serviços de rede** no Azure conectam e protegem recursos em nuvem e locais.
 
+
+## O Language Studio no Azure AI oferece uma interface intuitiva para testar e usar a Análise de Sentimentos, permitindo que desenvolvedores e empresas implementem rapidamente essa tecnologia em suas soluções de atendimento ao cliente, monitoramento de marca ou análise de feedback.
